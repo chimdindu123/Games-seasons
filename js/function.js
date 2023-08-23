@@ -55,7 +55,7 @@ function checkIfGameIsWon(first, second, third) {
     return;
   }
    }
-   display.textContent = "It is a Draw Game";
+   display.textContent = "It is a Draw Game😎";
   }
   
   
