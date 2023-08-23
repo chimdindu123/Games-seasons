@@ -48,6 +48,7 @@ function checkIfGameIsWon(first, second, third) {
       display.textContent = player + "won the game";
   }
   
+//   how to check for a draw in game
   function checkDraw (){
    for(let button of buttons){
   if(button.textContent === ""){
